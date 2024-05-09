@@ -1,5 +1,6 @@
 let accountBalance = 400;
 let depositAmountFromUser = "10";
+depositAmountFromUser = 10;
 
 accountBalance = accountBalance + depositAmountFromUser;
 
